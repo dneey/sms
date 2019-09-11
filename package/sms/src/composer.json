@@ -1,0 +1,18 @@
+{
+    "name": "yarteyd/src",
+    "description": "Send SMS with ITC sms API",
+    "type": "library",
+    "authors": [
+        {
+            "name": "David Nee Yartey",
+            "email": "yarteyd@itconsortiumgh.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Yarteyd\\SMS\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
